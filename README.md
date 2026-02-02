@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge&logo=pytorch)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Redes%20Neuronales-blue?style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Completado-green?style=for-the-badge)
 
 Este repositorio presenta **conceptos esenciales y aplicaciones prácticas de deep learning empleando Python y PyTorch**, cubriendo desde la preparación de datos y la construcción de redes neuronales hasta la optimización, regularización, evaluación y despliegue de modelos. El objetivo es **proporcionar una base robusta para desarrollar soluciones avanzadas basadas en aprendizaje profundo**.
 
